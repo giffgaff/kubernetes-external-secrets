@@ -31,7 +31,7 @@
     "node": ">=12.0.0"
   },
   "dependencies": {
-    "@alicloud/kms20160120": "^1.1.0",
+    "@alicloud/kms20160120": "^1.2.0",
     "@azure/identity": "^1.0.3",
     "@azure/keyvault-secrets": "^4.0.4",
     "@google-cloud/secret-manager": "^1.2.1",
