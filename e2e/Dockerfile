@@ -1,4 +1,4 @@
-FROM node:12.18.2-alpine
+FROM node:12.22.11-alpine
 
 RUN npm install npm@6.4.1 -g
 
