@@ -31,7 +31,7 @@
     "node": "^14.18.0"
   },
   "dependencies": {
-    "@alicloud/kms20160120": "^1.1.0",
+    "@alicloud/kms20160120": "^2.0.0",
     "@azure/identity": "^2.0.1",
     "@azure/keyvault-secrets": "^4.3.0",
     "@google-cloud/secret-manager": "^3.2.3",
@@ -44,10 +44,10 @@
     "kubernetes-client": "^9.0.0",
     "lodash": "^4.17.21",
     "make-promises-safe": "^5.1.0",
-    "node-vault": "^0.9.18",
+    "node-vault": "^0.10.0",
     "pino": "^7.0.5",
     "prom-client": "^12.0.0",
-    "proxy-agent": "^5.0.0"
+    "proxy-agent": "^6.3.0"
   },
   "devDependencies": {
     "chai": "4.3.4",
